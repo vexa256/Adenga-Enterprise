@@ -1,1 +1,1 @@
-Enterprise Virtual Class Room Application
+Enterprise Capacity Building Application (Elearning)
